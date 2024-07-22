@@ -3,10 +3,10 @@ layout: homepage
 ---
 
 ## About Me
-I'm a associate professor in Pharmacy at <a href="https://www.hainanu.edu.cn/" target="_blank"> Hainan University</a>,
-working with the mentorship of Prof.<a href="https://scholar.google.com/citations?user=_sYM_toAAAAJ&hl=en" target="_blank"> Ruibo Wu</a>. My research involves developing data-driven and physical-based models that asiste in drug discovery and synthesis, especially for natural products. Examples include database and webserver development, molecular generation, retrosynthesis planning and enzyme design. 
+I'm an associate professor in Pharmacy at <a href="https://www.hainanu.edu.cn/" target="_blank"> Hainan University</a>,
+working with the mentorship of Prof.<a href="https://scholar.google.com/citations?user=_sYM_toAAAAJ&hl=en" target="_blank"> Ruibo Wu</a>. My research involves developing data-driven and physical-based models that assist in drug discovery and synthesis, especially for natural products. Examples include database and webserver development, molecular generation, retrosynthesis planning and enzyme design. 
 
-Prior to joining the Hainan University, I completed my PhD's degree (2018-2023) and postdoctor research (2023-2024) in medicinal chemistry from <a href="https://www.sysu.edu.cn/" target = "_blank"> Sun Yat-sen University</a> advised by Prof. Ruibo Wu.
+Prior to joining Hainan University, I completed my Ph.D.'s degree (2018-2023) and post-doctor research (2023-2024) in medicinal chemistry from <a href="https://www.sysu.edu.cn/" target = "_blank"> Sun Yat-sen University</a> advised by Prof. Ruibo Wu.
 
 
 ## Research Interests
@@ -16,10 +16,10 @@ Prior to joining the Hainan University, I completed my PhD's degree (2018-2023) 
 
 
 
-## Collaboration
+## Collaborations
 
-1. <strong>T Zeng</strong>, Z Jin, S Zheng, T Yu, R Wu*. Developing BioNavi for Hybrid Retrosynthesis Planning. <a href="https://pubs.acs.org/doi/10.1021/jacsau.4c00228" target="_blank"><strong>JACS Au</strong>, 2024, ASAP.</a>
-2. <strong>T Zeng</strong>, R Wu*. Data-driven Prediction and Design for Enzymatic Reactions. <a href="https://synbioj.cip.com.cn/EN/10.12211/2096-8280.2022-066" target="_blank" ><strong>Synthetic Biology Journal</strong>. 2023, 4, 535-550. </a> 
+- **<strong>T Zeng</strong>, Z Jin, S Zheng, T Yu, R Wu*. Developing BioNavi for Hybrid Retrosynthesis Planning. <a href="https://pubs.acs.org/doi/10.1021/jacsau.4c00228" target="_blank"><strong>JACS Au</strong>, 2024, ASAP.</a>
+- **<strong>T Zeng</strong>, R Wu*. Data-driven Prediction and Design for Enzymatic Reactions. <a href="https://synbioj.cip.com.cn/EN/10.12211/2096-8280.2022-066" target="_blank" ><strong>Synthetic Biology Journal</strong>. 2023, 4, 535-550. </a> 
 3. N Chen<sup>#</sup>, R Zhang<sup>#</sup>, <strong>T Zeng</strong><sup>#</sup>, X Zhang, R Wu*. Developing TeroENZ and TeroMAP modules for the terpenome research platform TeroKit. <a href="https://academic.oup.com/database/article/doi/10.1093/database/baad020/7173549" target="_blank" ><strong>Database</strong>, 2023, 2023, baad020. </a>
 4. S Zheng<sup>#</sup>, <strong>T Zeng</strong><sup>#</sup>, C Li, B Chen, Connor W. Coley, Y Yang*,  R Wu*. Deep learning driven biosynthetic pathways navigation for natural products with BioNavi-NP.  <a href="https://www.nature.com/articles/s41467-022-30970-9" target="_blank" ><strong>Nat Commun</strong>, 2022, 13, 3342. </a>
 5. <strong>T Zeng</strong>,  B. Hess Jr.,  F Zhang, R Wu*. Bio-inspired Chemical Space Exploration of Terpenoids. <a href="https://doi.org/10.1093/bib/bbac197"  target="_blank"><strong>Brief Bioinform</strong>, 2022, 23, bbac197.</a>
