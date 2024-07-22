@@ -3,63 +3,34 @@ layout: homepage
 ---
 
 ## About Me
+I'm a associate professor in Pharmacy at <a href="https://www.hainanu.edu.cn/" target="_blank"> Hainan University</a>,
+working with the mentorship of Prof.<a href="https://scholar.google.com/citations?user=_sYM_toAAAAJ&hl=en" target="_blank"> Ruibo Wu</a>. My research involves developing data-driven and physical-based models that asiste in drug discovery and synthesis, especially for natural products. Examples include database and webserver development, molecular generation, retrosynthesis planning and enzyme design. 
 
-<!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
-I'm a Ph.D. candidate in Statistics at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>,
-<!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
-<!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="https://scholar.google.com/citations?user=QtyFQVYAAAAJ&hl=en" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data. This endeavor confronts two main challenges: First, how to define a metric with self-consistent property to cluster a population into subgroups, based on rich and complex tensor data for each individual. Second, how to develop a semi-supervised clustering algorithm, directed by a specific label, to accurately identify subgroups that align closely with a target subgroup of interest.
-
-In the summer of 2022, I had the opportunity to work as a Research Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>.
-<!-- and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>.  -->
-
-<!-- 
-I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
-
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
+Prior to joining the Hainan University, I completed my PhD's degree (2018-2023) and postdoctor research (2023-2024) in medicinal chemistry from <a href="https://www.sysu.edu.cn/" target = "_blank"> Sun Yat-sen University</a> advised by Prof. Ruibo Wu.
 
 
 ## Research Interests
-- **Causal Inference and Precision Medicine:** causal subpopulation identification, mediation analysis, personalized recommendation based on treatment effect and generated effect modifiers
-- **Machine Learning:** fairness ML, semi-supervised learning
-- **Manifold Learning and Metric Learning:** positive semi-definite manifold learning and metric learning
-- **Functional Data Analysis:** functional regression, and clustering methods
-
-
-## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
-
-
-<!-- {% include_relative _includes/publications.md %} -->
-
-{% include_relative _includes/projects.md %}
-
-{% include_relative _includes/talks.md %}
-
-
-
-
+- **Cheminformatics:** natural products database development, chemical space analysis
+- **Drug Design:** molecular generation, quantitative structure-activity modeling
+- **Synthetic Biology:** bio-retrosynthesis planning, molecular dynamics simulation, enzyme design
 
 
 
 ## Collaboration
 
-<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
-- **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
-- **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
-- **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
-
-
-{% include_relative _includes/services.md %}
-
+1. <strong>T Zeng</strong>, Z Jin, S Zheng, T Yu, R Wu*. Developing BioNavi for Hybrid Retrosynthesis Planning. <a href="https://pubs.acs.org/doi/10.1021/jacsau.4c00228" target="_blank"><strong>JACS Au</strong>, 2024, ASAP.</a>
+2. <strong>T Zeng</strong>, R Wu*. Data-driven Prediction and Design for Enzymatic Reactions. <a href="https://synbioj.cip.com.cn/EN/10.12211/2096-8280.2022-066" target="_blank" ><strong>Synthetic Biology Journal</strong>. 2023, 4, 535-550. </a> 
+3. N Chen<sup>#</sup>, R Zhang<sup>#</sup>, <strong>T Zeng</strong><sup>#</sup>, X Zhang, R Wu*. Developing TeroENZ and TeroMAP modules for the terpenome research platform TeroKit. <a href="https://academic.oup.com/database/article/doi/10.1093/database/baad020/7173549" target="_blank" ><strong>Database</strong>, 2023, 2023, baad020. </a>
+4. S Zheng<sup>#</sup>, <strong>T Zeng</strong><sup>#</sup>, C Li, B Chen, Connor W. Coley, Y Yang*,  R Wu*. Deep learning driven biosynthetic pathways navigation for natural products with BioNavi-NP.  <a href="https://www.nature.com/articles/s41467-022-30970-9" target="_blank" ><strong>Nat Commun</strong>, 2022, 13, 3342. </a>
+5. <strong>T Zeng</strong>,  B. Hess Jr.,  F Zhang, R Wu*. Bio-inspired Chemical Space Exploration of Terpenoids. <a href="https://doi.org/10.1093/bib/bbac197"  target="_blank"><strong>Brief Bioinform</strong>, 2022, 23, bbac197.</a>
+6. <strong>T Zeng</strong><sup>#</sup>, Y Chen<sup>#</sup>, Y Jian, F Zhang, R Wu*. Chemotaxonomic Investigation of Plant Terpenoids with an Established Database (TeroMOL).  <a href="https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18133"  target="_blank"><strong>New Phytol</strong>, 2022, 235, 662-673.</a>
+7. <strong>T Zeng</strong><sup>#</sup>, Z Liu<sup>#</sup>, J Zhuang, Y Jiang, W He, H Diao, N Lv, Y Jian, D Liang, Y Qiu, R Zhang, F Zhang, X Tang, R Wu*. TeroKit: A Database-Driven Web Server for Terpenome Research. <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.0c00141" target="_blank"><strong>J Chem Inf Model</strong>, 2020, 60, 2082-2090.</a>
+8. <strong>T Zeng</strong><sup>#</sup>, Z Liu<sup>#</sup>, H Liu, W He, X Tang, L Xie, R Wu*. Exploring Chemical and Biological Space of Terpenoids. <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.9b00443" target="_blank"><strong>J Chem Inf Model</strong>, 2019, 59, 3667-3678.</a>
 
 ## Resources
-- <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
-- <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Prep/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
-<!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou 
+- <a href="http://terokit.qmclab.com/" target="_blank">TeroKit</a>: A toolkit for terpenome research.
+- <a href="http://biopathnavi.qmclab.com/" target="_blank">BioNavi-NP</a>: A bio-retrosynthesis navigator for natural products.
+- <a href="http://biopathnavi.qmclab.com/bionavi/" target="_blank">BioNavi</a>: A hybrid retrosynthesis navigator fro chemicals.
 
 
 
