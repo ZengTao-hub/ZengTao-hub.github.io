@@ -2,11 +2,11 @@
 layout: homepage
 ---
 
-## About Me
+## Biography
 I'm an associate professor in Pharmacy at <a href="https://www.hainanu.edu.cn/" target="_blank"> Hainan University</a>,
-working with the mentorship of Prof.<a href="https://scholar.google.com/citations?user=_sYM_toAAAAJ&hl=en" target="_blank"> Ruibo Wu</a>. My research involves developing data-driven and physical-based models that assist in drug discovery and synthesis, especially for natural products. Examples include database and webserver development, molecular generation, retrosynthesis planning and enzyme design. 
+working in the group "Intelligent Mining and Biomanufacturing of Natural Products" led by Prof.<a href="https://scholar.google.com/citations?user=_sYM_toAAAAJ&hl=en" target="_blank"> Ruibo Wu</a>. My research involves developing data-driven and physical-based models that assist in drug discovery and synthesis, especially for natural products. Examples include database and webserver development, molecular generation, retrosynthesis planning and enzyme design. 
 
-Prior to joining Hainan University, I completed my Ph.D.'s degree (2018-2023) and post-doctor research (2023-2024) in medicinal chemistry from <a href="https://www.sysu.edu.cn/" target = "_blank"> Sun Yat-sen University</a> advised by Prof. Ruibo Wu.
+Prior to joining Hainan University, I completed my Ph.D.'s degree (2018-2023, advised by Prof. Ruibo Wu) and post-doctor research (2023-2024, advised by Prof. Sheng Yin and Prof. Ruibo Wu) in medicinal chemistry from <a href="https://www.sysu.edu.cn/" target = "_blank"> Sun Yat-sen University</a>.
 
 
 ## Research Interests
