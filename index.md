@@ -18,7 +18,7 @@ Prior to joining Hainan University, I completed my Ph.D.'s degree (2018-2023, ad
 
 ## Publications
 
-- <strong>T Zeng</strong>, Z Jin, S Zheng, T Yu, R Wu*. Developing BioNavi for Hybrid Retrosynthesis Planning. <a href="https://pubs.acs.org/doi/10.1021/jacsau.4c00228" target="_blank"><strong>JACS Au</strong>, 2024, ASAP.</a>
+- <strong>T Zeng</strong>, Z Jin, S Zheng, T Yu, R Wu*. Developing BioNavi for Hybrid Retrosynthesis Planning. <a href="https://pubs.acs.org/doi/10.1021/jacsau.4c00228" target="_blank"><strong>JACS Au</strong>, 2024, 4, 7, 2492–2502.</a>
 - <strong>T Zeng</strong>, R Wu*. Data-driven Prediction and Design for Enzymatic Reactions. <a href="https://synbioj.cip.com.cn/EN/10.12211/2096-8280.2022-066" target="_blank" ><strong>Synthetic Biology Journal</strong>. 2023, 4, 535-550. </a> 
 - N Chen<sup>#</sup>, R Zhang<sup>#</sup>, <strong>T Zeng</strong><sup>#</sup>, X Zhang, R Wu*. Developing TeroENZ and TeroMAP modules for the terpenome research platform TeroKit. <a href="https://academic.oup.com/database/article/doi/10.1093/database/baad020/7173549" target="_blank" ><strong>Database</strong>, 2023, 2023, baad020. </a>
 - S Zheng<sup>#</sup>, <strong>T Zeng</strong><sup>#</sup>, C Li, B Chen, Connor W. Coley, Y Yang*,  R Wu*. Deep learning driven biosynthetic pathways navigation for natural products with BioNavi-NP.  <a href="https://www.nature.com/articles/s41467-022-30970-9" target="_blank" ><strong>Nat Commun</strong>, 2022, 13, 3342. </a>
