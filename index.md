@@ -17,7 +17,9 @@ Before joining Hainan University, I completed my post-doctor research (2023-2024
 
 
 ## Publications
-
+- <strong>T Zeng</strong>, J Li, R Wu*. Skeleton Innovation versus Structural Diversification in Terpenoid Discovery: Chemoinformatic Insights from TeroKit. Nat Pord Rep, 2026, ASAP.
+- J Li<sup>#</sup>, <strong>T Zeng</strong><sup>#</sup>, H Xu, X Kang, M Liang, R Wu*. AlkaPlorer: A database-driven explorer for natural alkaloids and derivatives. J Integr Plant Biol, 2026, 68, 1384-1398.
+- <strong>T Zeng</strong>, H Du, R Wu*. The chemical structures, and biological activities of marine terpenoids: a review and perspective from cheminformatics. Chin J Nat Med., 2025, 23, 1-18.
 - <strong>T Zeng</strong>, J Li, R Wu*. Natural Product Databases for Drug Discovery: Features and Applications. <a href="https://doi.org/10.1016/j.pscia.2024.100050" target="_blank"><strong>Pharm Sci Adv</strong>, 2024, 2, 100050.</a>
 - <strong>T Zeng</strong>, Z Jin, S Zheng, T Yu, R Wu*. Developing BioNavi for Hybrid Retrosynthesis Planning. <a href="https://pubs.acs.org/doi/10.1021/jacsau.4c00228" target="_blank"><strong>JACS Au</strong>, 2024, 4, 7, 2492–2502.</a>
 - <strong>T Zeng</strong>, R Wu*. Data-driven Prediction and Design for Enzymatic Reactions. <a href="https://synbioj.cip.com.cn/EN/10.12211/2096-8280.2022-066" target="_blank" ><strong>Synthetic Biology Journal</strong>. 2023, 4, 535-550. </a> 
